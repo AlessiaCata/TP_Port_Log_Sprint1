@@ -58,3 +58,11 @@
 - Se generó el gráfico del exceso promedio por muelle.
 - Se compararon infracciones con fechas válidas e inválidas.
 - Se exportaron todos los gráficos en formato JPG.
+
+[Ejercicio 6]
+
+- Se calculó el porcentaje de infracciones con fecha inválida.
+- Se calculó el porcentaje de infracciones con hora inválida.
+- Se identificó el tipo de carga más frecuente en infracciones.
+- Se identificó el origen más frecuente entre buques infractores.
+- Se calculó la duración promedio de estadía de los buques infractores.
