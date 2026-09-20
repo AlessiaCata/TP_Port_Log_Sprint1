@@ -25,3 +25,8 @@
 - Se creó la rama Sprint_1.
 - Se creó la estructura de directorios del proyecto.
 - Se agregó el archivo README.md.
+
+- Se crearon las columnas exceso_velocidad_real y exceso_velocidad.
+- Se eliminaron los registros sin infracción.
+- Se guardó el dataset limpio en data/interim.
+- Se exportó el resumen estadístico del Sprint 1.
