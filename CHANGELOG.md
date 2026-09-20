@@ -30,3 +30,21 @@
 - Se eliminaron los registros sin infracción.
 - Se guardó el dataset limpio en data/interim.
 - Se exportó el resumen estadístico del Sprint 1.
+
+[Ejercicio 4]
+
+- Se creó la clase PortAnalyzer.
+- Se implementó el ranking de matrículas infractoras.
+- Se agruparon infracciones por turno.
+- Se calcularon excesos promedio de velocidad.
+- Se agruparon infracciones por muelle.
+- Se agruparon infractores por tipo de carga.
+
+[Ejercicio 4]
+
+- Se creó la clase PortAnalyzer.
+- Se implementó el ranking de matrículas infractoras.
+- Se agruparon infracciones por turno.
+- Se calcularon excesos promedio de velocidad.
+- Se agruparon infracciones por muelle.
+- Se agruparon infractores por tipo de carga.
