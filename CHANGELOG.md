@@ -66,3 +66,12 @@
 - Se identificó el tipo de carga más frecuente en infracciones.
 - Se identificó el origen más frecuente entre buques infractores.
 - Se calculó la duración promedio de estadía de los buques infractores.
+
+[Ejercicio 7]
+
+- Se redactó la conclusión final del análisis.
+- Se evaluó la calidad del dataset original.
+- Se resumieron los principales patrones de infracción.
+- Se analizó el impacto de utilizar datos sin limpieza previa.
+- Se propusieron mejoras para la captura y validación de datos.
+- Se guardó la conclusión en port_log/reports/conclusion.md.
