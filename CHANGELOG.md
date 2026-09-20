@@ -48,3 +48,13 @@
 - Se calcularon excesos promedio de velocidad.
 - Se agruparon infracciones por muelle.
 - Se agruparon infractores por tipo de carga.
+
+[Ejercicio 5]
+
+- Se generó el gráfico del Top 10 de matrículas reincidentes.
+- Se generó el gráfico de infracciones por turno.
+- Se generó el gráfico de infracciones por mes.
+- Se generó el histograma del exceso de velocidad real con KDE.
+- Se generó el gráfico del exceso promedio por muelle.
+- Se compararon infracciones con fechas válidas e inválidas.
+- Se exportaron todos los gráficos en formato JPG.
